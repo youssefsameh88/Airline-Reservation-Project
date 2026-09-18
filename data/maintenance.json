@@ -1,0 +1,107 @@
+[
+  {
+    "aircraftId": 1,
+    "date": "2026-07-09",
+    "description": "Routine inspection - no issues",
+    "id": 1,
+    "maintenanceStatus": "NoProblems"
+  },
+  {
+    "aircraftId": 2,
+    "date": "2026-07-14",
+    "description": "Left engine sensor replaced",
+    "id": 2,
+    "maintenanceStatus": "Fixed"
+  },
+  {
+    "aircraftId": 3,
+    "date": "2026-07-22",
+    "description": "Landing gear hydraulic leak",
+    "id": 3,
+    "maintenanceStatus": "NeedsFix"
+  },
+  {
+    "aircraftId": 1,
+    "date": "2026-08-02",
+    "description": "Cabin seats refurbished",
+    "id": 4,
+    "maintenanceStatus": "Fixed"
+  },
+  {
+    "aircraftId": 4,
+    "date": "2026-08-08",
+    "description": "Routine inspection - no issues",
+    "id": 5,
+    "maintenanceStatus": "NoProblems"
+  },
+  {
+    "aircraftId": 5,
+    "date": "2026-08-15",
+    "description": "Avionics software update",
+    "id": 6,
+    "maintenanceStatus": "Fixed"
+  },
+  {
+    "aircraftId": 6,
+    "date": "2026-08-21",
+    "description": "Wing flap actuator worn",
+    "id": 7,
+    "maintenanceStatus": "NeedsFix"
+  },
+  {
+    "aircraftId": 2,
+    "date": "2026-08-29",
+    "description": "Tire replacement (all gears)",
+    "id": 8,
+    "maintenanceStatus": "Fixed"
+  },
+  {
+    "aircraftId": 3,
+    "date": "2026-09-03",
+    "description": "Cabin pressurization check",
+    "id": 9,
+    "maintenanceStatus": "NoProblems"
+  },
+  {
+    "aircraftId": 1,
+    "date": "2026-09-07",
+    "description": "Overhead bin latch broken",
+    "id": 10,
+    "maintenanceStatus": "NeedsFix"
+  },
+  {
+    "aircraftId": 4,
+    "date": "2026-09-11",
+    "description": "Brake pads replaced",
+    "id": 11,
+    "maintenanceStatus": "Fixed"
+  },
+  {
+    "aircraftId": 5,
+    "date": "2026-09-14",
+    "description": "Routine inspection - no issues",
+    "id": 12,
+    "maintenanceStatus": "NoProblems"
+  },
+  {
+    "aircraftId": 6,
+    "date": "2026-09-15",
+    "description": "APU starter motor replaced",
+    "id": 13,
+    "maintenanceStatus": "Fixed"
+  },
+  {
+    "aircraftId": 2,
+    "date": "2026-09-16",
+    "description": "Emergency exit seal inspection",
+    "id": 14,
+    "maintenanceStatus": "NeedsFix"
+  },
+  {
+    "aircraftId": 1,
+    "date": "2026-09-19",
+    "description": "Routine check",
+    "id": 15,
+    "maintenanceStatus": "NoProblems"
+  }
+]

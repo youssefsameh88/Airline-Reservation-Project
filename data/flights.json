@@ -1,0 +1,507 @@
+[
+  {
+    "aircraftId": 1,
+    "arrivalTime": "2026-10-01 09:00",
+    "crewMemberIds": [
+      1,
+      2,
+      8
+    ],
+    "departureTime": "2026-10-01 06:00",
+    "destination": "Dubai",
+    "flightStatus": "Boarding",
+    "id": 1,
+    "origin": "Cairo",
+    "price": 400,
+    "reservationIds": [
+      1,
+      2
+    ]
+  },
+  {
+    "aircraftId": 2,
+    "arrivalTime": "2026-10-02 10:11",
+    "crewMemberIds": [
+      3,
+      4,
+      10
+    ],
+    "departureTime": "2026-10-02 07:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 2,
+    "origin": "Dubai",
+    "price": 537,
+    "reservationIds": [
+      3,
+      4,
+      5,
+      83
+    ]
+  },
+  {
+    "aircraftId": 3,
+    "arrivalTime": "2026-10-03 11:22",
+    "crewMemberIds": [
+      5,
+      6,
+      12
+    ],
+    "departureTime": "2026-10-03 08:00",
+    "destination": "Jeddah",
+    "flightStatus": "Boarding",
+    "id": 3,
+    "origin": "Cairo",
+    "price": 674,
+    "reservationIds": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "aircraftId": 4,
+    "arrivalTime": "2026-10-04 12:33",
+    "crewMemberIds": [
+      7,
+      8,
+      14
+    ],
+    "departureTime": "2026-10-04 09:00",
+    "destination": "Cairo",
+    "flightStatus": "Departed",
+    "id": 4,
+    "origin": "Jeddah",
+    "price": 811,
+    "reservationIds": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "aircraftId": 5,
+    "arrivalTime": "2026-10-05 13:44",
+    "crewMemberIds": [
+      9,
+      10,
+      16
+    ],
+    "departureTime": "2026-10-05 10:00",
+    "destination": "Riyadh",
+    "flightStatus": "Scheduled",
+    "id": 5,
+    "origin": "Cairo",
+    "price": 948,
+    "reservationIds": [
+      15,
+      16,
+      82
+    ]
+  },
+  {
+    "aircraftId": 6,
+    "arrivalTime": "2026-10-06 14:55",
+    "crewMemberIds": [
+      11,
+      12,
+      2
+    ],
+    "departureTime": "2026-10-06 11:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 6,
+    "origin": "Riyadh",
+    "price": 1085,
+    "reservationIds": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "aircraftId": 1,
+    "arrivalTime": "2026-10-07 09:06",
+    "crewMemberIds": [
+      13,
+      14,
+      4
+    ],
+    "departureTime": "2026-10-07 06:00",
+    "destination": "London",
+    "flightStatus": "Arrived",
+    "id": 7,
+    "origin": "Cairo",
+    "price": 1222,
+    "reservationIds": [
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "aircraftId": 2,
+    "arrivalTime": "2026-10-08 10:17",
+    "crewMemberIds": [
+      15,
+      16,
+      6
+    ],
+    "departureTime": "2026-10-08 07:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 8,
+    "origin": "London",
+    "price": 1359,
+    "reservationIds": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "aircraftId": 3,
+    "arrivalTime": "2026-10-09 11:28",
+    "crewMemberIds": [
+      1,
+      2,
+      8
+    ],
+    "departureTime": "2026-10-09 08:00",
+    "destination": "Paris",
+    "flightStatus": "Scheduled",
+    "id": 9,
+    "origin": "Cairo",
+    "price": 1496,
+    "reservationIds": [
+      29,
+      30
+    ]
+  },
+  {
+    "aircraftId": 4,
+    "arrivalTime": "2026-10-10 12:39",
+    "crewMemberIds": [
+      3,
+      4,
+      10
+    ],
+    "departureTime": "2026-10-10 09:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 10,
+    "origin": "Paris",
+    "price": 1633,
+    "reservationIds": [
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "aircraftId": 5,
+    "arrivalTime": "2026-10-11 13:50",
+    "crewMemberIds": [
+      5,
+      6,
+      12
+    ],
+    "departureTime": "2026-10-11 10:00",
+    "destination": "Istanbul",
+    "flightStatus": "Scheduled",
+    "id": 11,
+    "origin": "Cairo",
+    "price": 1770,
+    "reservationIds": [
+      34,
+      35,
+      36,
+      37
+    ]
+  },
+  {
+    "aircraftId": 6,
+    "arrivalTime": "2026-10-12 14:01",
+    "crewMemberIds": [
+      7,
+      8,
+      14
+    ],
+    "departureTime": "2026-10-12 11:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 12,
+    "origin": "Istanbul",
+    "price": 1907,
+    "reservationIds": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "aircraftId": 1,
+    "arrivalTime": "2026-10-13 09:12",
+    "crewMemberIds": [
+      9,
+      10,
+      16
+    ],
+    "departureTime": "2026-10-13 06:00",
+    "destination": "Rome",
+    "flightStatus": "Scheduled",
+    "id": 13,
+    "origin": "Cairo",
+    "price": 2044,
+    "reservationIds": [
+      43,
+      44
+    ]
+  },
+  {
+    "aircraftId": 2,
+    "arrivalTime": "2026-10-14 10:23",
+    "crewMemberIds": [
+      11,
+      12,
+      2
+    ],
+    "departureTime": "2026-10-14 07:00",
+    "destination": "Cairo",
+    "flightStatus": "Cancelled",
+    "id": 14,
+    "origin": "Rome",
+    "price": 2181,
+    "reservationIds": []
+  },
+  {
+    "aircraftId": 3,
+    "arrivalTime": "2026-10-15 11:34",
+    "crewMemberIds": [
+      13,
+      14,
+      4
+    ],
+    "departureTime": "2026-10-15 08:00",
+    "destination": "Doha",
+    "flightStatus": "Scheduled",
+    "id": 15,
+    "origin": "Cairo",
+    "price": 2318,
+    "reservationIds": [
+      45,
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "aircraftId": 4,
+    "arrivalTime": "2026-10-16 12:45",
+    "crewMemberIds": [
+      15,
+      16,
+      6
+    ],
+    "departureTime": "2026-10-16 09:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 16,
+    "origin": "Doha",
+    "price": 2455,
+    "reservationIds": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "aircraftId": 5,
+    "arrivalTime": "2026-10-17 13:56",
+    "crewMemberIds": [
+      1,
+      2,
+      8
+    ],
+    "departureTime": "2026-10-17 10:00",
+    "destination": "Kuwait",
+    "flightStatus": "Scheduled",
+    "id": 17,
+    "origin": "Cairo",
+    "price": 492,
+    "reservationIds": [
+      54,
+      55
+    ]
+  },
+  {
+    "aircraftId": 6,
+    "arrivalTime": "2026-10-18 14:07",
+    "crewMemberIds": [
+      3,
+      4,
+      10
+    ],
+    "departureTime": "2026-10-18 11:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 18,
+    "origin": "Kuwait",
+    "price": 629,
+    "reservationIds": [
+      56,
+      57,
+      58
+    ]
+  },
+  {
+    "aircraftId": 1,
+    "arrivalTime": "2026-10-19 09:18",
+    "crewMemberIds": [
+      5,
+      6,
+      12
+    ],
+    "departureTime": "2026-10-19 06:00",
+    "destination": "Frankfurt",
+    "flightStatus": "Scheduled",
+    "id": 19,
+    "origin": "Cairo",
+    "price": 766,
+    "reservationIds": [
+      59,
+      60,
+      61,
+      62
+    ]
+  },
+  {
+    "aircraftId": 2,
+    "arrivalTime": "2026-10-20 10:29",
+    "crewMemberIds": [
+      7,
+      8,
+      14
+    ],
+    "departureTime": "2026-10-20 07:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 20,
+    "origin": "Frankfurt",
+    "price": 903,
+    "reservationIds": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  {
+    "aircraftId": 3,
+    "arrivalTime": "2026-10-21 11:40",
+    "crewMemberIds": [
+      9,
+      10,
+      16
+    ],
+    "departureTime": "2026-10-21 08:00",
+    "destination": "Athens",
+    "flightStatus": "Scheduled",
+    "id": 21,
+    "origin": "Cairo",
+    "price": 1040,
+    "reservationIds": [
+      68,
+      69
+    ]
+  },
+  {
+    "aircraftId": 4,
+    "arrivalTime": "2026-10-22 12:51",
+    "crewMemberIds": [
+      11,
+      12,
+      2
+    ],
+    "departureTime": "2026-10-22 09:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 22,
+    "origin": "Athens",
+    "price": 1177,
+    "reservationIds": [
+      70,
+      71,
+      72
+    ]
+  },
+  {
+    "aircraftId": 5,
+    "arrivalTime": "2026-10-23 13:02",
+    "crewMemberIds": [
+      13,
+      14,
+      4
+    ],
+    "departureTime": "2026-10-23 10:00",
+    "destination": "Beirut",
+    "flightStatus": "Scheduled",
+    "id": 23,
+    "origin": "Cairo",
+    "price": 1314,
+    "reservationIds": [
+      73,
+      74,
+      75,
+      76
+    ]
+  },
+  {
+    "aircraftId": 6,
+    "arrivalTime": "2026-10-24 14:13",
+    "crewMemberIds": [
+      15,
+      16,
+      6
+    ],
+    "departureTime": "2026-10-24 11:00",
+    "destination": "Cairo",
+    "flightStatus": "Scheduled",
+    "id": 24,
+    "origin": "Beirut",
+    "price": 1451,
+    "reservationIds": [
+      77,
+      78,
+      79,
+      80,
+      81
+    ]
+  },
+  {
+    "aircraftId": 1,
+    "arrivalTime": "2026-12-01 14:00",
+    "crewMemberIds": [
+      1,
+      2
+    ],
+    "departureTime": "2026-12-01 08:00",
+    "destination": "Tokyo",
+    "flightStatus": "Scheduled",
+    "id": 25,
+    "origin": "Cairo",
+    "price": 2500,
+    "reservationIds": []
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 320,
+    "id": 1,
+    "licenseNumber": "PIL-1001",
+    "licenseType": "ATPL",
+    "maxFlightHours": 1000,
+    "name": "Ahmed Hassan"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 250,
+    "id": 2,
+    "maxFlightHours": 800,
+    "name": "Sara Mahmoud"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 410,
+    "id": 3,
+    "licenseNumber": "PIL-1002",
+    "licenseType": "ATPL",
+    "maxFlightHours": 1200,
+    "name": "Mohammed Ali"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 300,
+    "id": 4,
+    "maxFlightHours": 800,
+    "name": "Layla Ibrahim"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 180,
+    "id": 5,
+    "licenseNumber": "PIL-1003",
+    "licenseType": "CPL",
+    "maxFlightHours": 900,
+    "name": "Omar Khaled"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 220,
+    "id": 6,
+    "maxFlightHours": 800,
+    "name": "Nour Adel"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 500,
+    "id": 7,
+    "licenseNumber": "PIL-1004",
+    "licenseType": "ATPL",
+    "maxFlightHours": 1100,
+    "name": "Youssef Samir"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 310,
+    "id": 8,
+    "maxFlightHours": 750,
+    "name": "Hana Mostafa"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 140,
+    "id": 9,
+    "licenseNumber": "PIL-1005",
+    "licenseType": "CPL",
+    "maxFlightHours": 950,
+    "name": "Karim Fathy"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 275,
+    "id": 10,
+    "maxFlightHours": 800,
+    "name": "Dina Rashad"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 620,
+    "id": 11,
+    "licenseNumber": "PIL-1006",
+    "licenseType": "ATPL",
+    "maxFlightHours": 1300,
+    "name": "Tarek Nabil"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 190,
+    "id": 12,
+    "maxFlightHours": 800,
+    "name": "Mona Ezzat"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 260,
+    "id": 13,
+    "licenseNumber": "PIL-1007",
+    "licenseType": "CPL",
+    "maxFlightHours": 1000,
+    "name": "Ali Gamal"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 340,
+    "id": 14,
+    "maxFlightHours": 750,
+    "name": "Salma Fouad"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 470,
+    "id": 15,
+    "licenseNumber": "PIL-1008",
+    "licenseType": "ATPL",
+    "maxFlightHours": 1150,
+    "name": "Hassan Adel"
+  },
+  {
+    "crewType": "FlightAttendant",
+    "currentFlightHours": 150,
+    "id": 16,
+    "maxFlightHours": 800,
+    "name": "Rana Youssef"
+  },
+  {
+    "crewType": "Pilot",
+    "currentFlightHours": 0,
+    "id": 17,
+    "licenseNumber": "ATP-777",
+    "licenseType": "ATPL",
+    "maxFlightHours": 900,
+    "name": "New Pilot"
+  }
+]

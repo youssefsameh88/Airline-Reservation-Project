@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "name": "Boeing 737-800",
+    "nextFirstSeatId": 1,
+    "numOfCols": 6,
+    "numOfRows": 30,
+    "seatAvailability": [
+      {
+        "id": 3,
+        "isAvailable": false
+      },
+      {
+        "id": 5,
+        "isAvailable": false
+      },
+      {
+        "id": 6,
+        "isAvailable": false
+      },
+      {
+        "id": 7,
+        "isAvailable": false
+      },
+      {
+        "id": 8,
+        "isAvailable": false
+      },
+      {
+        "id": 9,
+        "isAvailable": false
+      },
+      {
+        "id": 10,
+        "isAvailable": false
+      },
+      {
+        "id": 11,
+        "isAvailable": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Airbus A320",
+    "nextFirstSeatId": 181,
+    "numOfCols": 6,
+    "numOfRows": 28,
+    "seatAvailability": [
+      {
+        "id": 181,
+        "isAvailable": false
+      },
+      {
+        "id": 182,
+        "isAvailable": false
+      },
+      {
+        "id": 183,
+        "isAvailable": false
+      },
+      {
+        "id": 185,
+        "isAvailable": false
+      },
+      {
+        "id": 186,
+        "isAvailable": false
+      },
+      {
+        "id": 187,
+        "isAvailable": false
+      },
+      {
+        "id": 188,
+        "isAvailable": false
+      },
+      {
+        "id": 189,
+        "isAvailable": false
+      },
+      {
+        "id": 190,
+        "isAvailable": false
+      },
+      {
+        "id": 192,
+        "isAvailable": false
+      },
+      {
+        "id": 193,
+        "isAvailable": false
+      },
+      {
+        "id": 199,
+        "isAvailable": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Boeing 787-9",
+    "nextFirstSeatId": 349,
+    "numOfCols": 6,
+    "numOfRows": 34,
+    "seatAvailability": [
+      {
+        "id": 349,
+        "isAvailable": false
+      },
+      {
+        "id": 350,
+        "isAvailable": false
+      },
+      {
+        "id": 351,
+        "isAvailable": false
+      },
+      {
+        "id": 352,
+        "isAvailable": false
+      },
+      {
+        "id": 353,
+        "isAvailable": false
+      },
+      {
+        "id": 354,
+        "isAvailable": false
+      },
+      {
+        "id": 356,
+        "isAvailable": false
+      },
+      {
+        "id": 357,
+        "isAvailable": false
+      },
+      {
+        "id": 358,
+        "isAvailable": false
+      },
+      {
+        "id": 359,
+        "isAvailable": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Airbus A350-900",
+    "nextFirstSeatId": 553,
+    "numOfCols": 6,
+    "numOfRows": 36,
+    "seatAvailability": [
+      {
+        "id": 553,
+        "isAvailable": false
+      },
+      {
+        "id": 554,
+        "isAvailable": false
+      },
+      {
+        "id": 555,
+        "isAvailable": false
+      },
+      {
+        "id": 556,
+        "isAvailable": false
+      },
+      {
+        "id": 558,
+        "isAvailable": false
+      },
+      {
+        "id": 559,
+        "isAvailable": false
+      },
+      {
+        "id": 560,
+        "isAvailable": false
+      },
+      {
+        "id": 561,
+        "isAvailable": false
+      },
+      {
+        "id": 562,
+        "isAvailable": false
+      },
+      {
+        "id": 563,
+        "isAvailable": false
+      },
+      {
+        "id": 564,
+        "isAvailable": false
+      },
+      {
+        "id": 565,
+        "isAvailable": false
+      },
+      {
+        "id": 567,
+        "isAvailable": false
+      },
+      {
+        "id": 568,
+        "isAvailable": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Embraer E190",
+    "nextFirstSeatId": 769,
+    "numOfCols": 4,
+    "numOfRows": 20,
+    "seatAvailability": [
+      {
+        "id": 769,
+        "isAvailable": false
+      },
+      {
+        "id": 770,
+        "isAvailable": false
+      },
+      {
+        "id": 771,
+        "isAvailable": false
+      },
+      {
+        "id": 772,
+        "isAvailable": false
+      },
+      {
+        "id": 773,
+        "isAvailable": false
+      },
+      {
+        "id": 774,
+        "isAvailable": false
+      },
+      {
+        "id": 775,
+        "isAvailable": false
+      },
+      {
+        "id": 776,
+        "isAvailable": false
+      },
+      {
+        "id": 777,
+        "isAvailable": false
+      },
+      {
+        "id": 778,
+        "isAvailable": false
+      },
+      {
+        "id": 779,
+        "isAvailable": false
+      },
+      {
+        "id": 780,
+        "isAvailable": false
+      },
+      {
+        "id": 781,
+        "isAvailable": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Boeing 777-300ER",
+    "nextFirstSeatId": 849,
+    "numOfCols": 6,
+    "numOfRows": 42,
+    "seatAvailability": [
+      {
+        "id": 849,
+        "isAvailable": false
+      },
+      {
+        "id": 850,
+        "isAvailable": false
+      },
+      {
+        "id": 852,
+        "isAvailable": false
+      },
+      {
+        "id": 853,
+        "isAvailable": false
+      },
+      {
+        "id": 854,
+        "isAvailable": false
+      },
+      {
+        "id": 856,
+        "isAvailable": false
+      },
+      {
+        "id": 857,
+        "isAvailable": false
+      },
+      {
+        "id": 858,
+        "isAvailable": false
+      },
+      {
+        "id": 859,
+        "isAvailable": false
+      },
+      {
+        "id": 860,
+        "isAvailable": false
+      },
+      {
+        "id": 861,
+        "isAvailable": false
+      },
+      {
+        "id": 862,
+        "isAvailable": false
+      },
+      {
+        "id": 863,
+        "isAvailable": false
+      },
+      {
+        "id": 864,
+        "isAvailable": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Test Jet",
+    "nextFirstSeatId": 1101,
+    "numOfCols": 4,
+    "numOfRows": 10,
+    "seatAvailability": []
+  }
+]
